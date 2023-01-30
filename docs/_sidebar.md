@@ -1,4 +1,10 @@
-* [函数式编程]()
-* [项目搭建规范](project)
-* [TypeScript学习](typescript)
+* [函数式编程](functional-programming/%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B.md)
+- 前端工程
+  - [项目搭建规范](project/project.md)
+  - [代码重构](project/%E4%BB%A3%E7%A0%81%E9%87%8D%E6%9E%84.md)
+* [TypeScript学习](typescript/typescript.md)
 * [Canvas](Canvas)
+- 自身成长
+  - [结构化思维](be-better/%E7%BB%93%E6%9E%84%E5%8C%96%E6%80%9D%E7%BB%B4.md)
+  - [强大心态训练](be-better/%E5%BC%BA%E5%A4%A7%E5%BF%83%E6%80%81%E8%AE%AD%E7%BB%83.md)
+  - [怎么才能更聪明](be-better/%E6%80%8E%E4%B9%88%E6%89%8D%E8%83%BD%E6%9B%B4%E8%81%AA%E6%98%8E.md)
