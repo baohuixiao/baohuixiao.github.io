@@ -1,0 +1,13 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "## 什么是编程的范式，为什么会有编程范式",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "cd docs && docsify serve"    
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
